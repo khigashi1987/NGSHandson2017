@@ -8,7 +8,7 @@ A 3D Map of the Human Genome at Kilobase Resolution Reveals Principles of Chroma
 Rao et al, 2014  
 
 
-##データダウンロード
+## データダウンロード
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63525  
 から  
 サンプルHIC020 （GSM1551569）: SRR1658592  
